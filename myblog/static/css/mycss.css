@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(90deg, #0931F7 0%, #924040 103%, #FFFFFF 100%);
+}
+
+.nav-link {
+    color: aquamarine;
+}
+
+.navbar-nav .nav-link.active {
+    color: azure;
+}
+
+.navbar-brand img {
+    width: 50px;
+}
+
+.navbar-toggler {
+    background-color: rgb(94, 94, 94);
+}
+
+.sidebar {
+    color: rgb(168, 179, 216);
+    background: linear-gradient(270deg, #0931F7 0%, #924040 103%, #FFFFFF 100%);
+
+}
